@@ -1,0 +1,15 @@
+[ 2025-12-31 23:15:16,336 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-12-31 23:15:16,349 ] 96 werkzeug - INFO -  * Debugger PIN: 127-294-016
+[ 2025-12-31 23:15:24,758 ] 96 werkzeug - INFO - 127.0.0.1 - - [31/Dec/2025 23:15:24] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2025-12-31 23:15:27,239 ] 96 werkzeug - INFO - 127.0.0.1 - - [31/Dec/2025 23:15:27] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2025-12-31 23:15:27,297 ] 96 werkzeug - INFO - 127.0.0.1 - - [31/Dec/2025 23:15:27] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-12-31 23:15:27,299 ] 96 werkzeug - INFO - 127.0.0.1 - - [31/Dec/2025 23:15:27] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-12-31 23:15:27,378 ] 96 werkzeug - INFO - 127.0.0.1 - - [31/Dec/2025 23:15:27] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-12-31 23:15:27,455 ] 96 werkzeug - INFO - 127.0.0.1 - - [31/Dec/2025 23:15:27] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-12-31 23:16:13,998 ] 96 werkzeug - INFO -  * Detected change in 'F:\\AgenticAI\\Workplace\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2025-12-31 23:16:14,000 ] 96 werkzeug - INFO -  * Detected change in 'f:\\agenticai\\workplace\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2025-12-31 23:16:14,001 ] 96 werkzeug - INFO -  * Detected change in 'F:\\AgenticAI\\Workplace\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2025-12-31 23:16:14,002 ] 96 werkzeug - INFO -  * Detected change in 'f:\\agenticai\\workplace\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2025-12-31 23:16:14,003 ] 96 werkzeug - INFO -  * Detected change in 'F:\\AgenticAI\\Workplace\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2025-12-31 23:16:14,011 ] 96 werkzeug - INFO -  * Detected change in 'F:\\AgenticAI\\Workplace\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2025-12-31 23:16:14,012 ] 96 werkzeug - INFO -  * Detected change in 'f:\\agenticai\\workplace\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
